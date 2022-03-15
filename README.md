@@ -12,4 +12,4 @@ A simple MAUI App to get started!
 
 **Enjoy**
 
-By *Mafyou 2022, all right reserved*
+By *Mafyou in 2022, all right reserved*
